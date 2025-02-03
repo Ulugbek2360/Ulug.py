@@ -1,8 +1,6 @@
-heigt=int(input("enter you height:"))
-weigt=int(input("enter you weight:"))
-
-if bmi=weight/ (height/100) ** 2
-
+height=int(input("enter you height:"))
+weight=int(input("enter you weight:"))
+bmi = weight/ (height / 100) **2
 if bmi <18.5:
     print("underweight")
 elif 18.5 <=bmi <25:
